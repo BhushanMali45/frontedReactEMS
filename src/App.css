@@ -1,0 +1,14 @@
+body{
+  /* background-image: url('./images//background.webp'); */
+
+  background-color: rgb(8, 1, 41);
+  background-size: cover;
+  background-position: center;
+ 
+
+  color:#e7e5eb;
+  height: 100vh;
+
+}
+
+
